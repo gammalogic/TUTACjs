@@ -5,4 +5,4 @@ A JavaScript implementation of the TUTor Automatic Computer (TUTAC), a theoretic
 
 NOTES:
 
-[1] TUTAC was originally described in the 1962 book "Basic Computer Programming", also by Theodore G. Scott, originally published in the US by Doubleday & Company, Inc., Garden City, N.Y. The 1962 book describes a total of 13 opcodes, while the 1964 book builds upon this set of opcodes as well as detailing interfaces for front panels, magnetic storage, line printers, etc. The 1964 also describes a prototype assembler language, the implementation of which is beyond the scope of this project currently.
+[1] TUTAC was originally described in the 1962 book "Basic Computer Programming", also by Theodore G. Scott, originally published in the US by Doubleday & Company, Inc., Garden City, N.Y. The 1962 book describes a total of 13 opcodes, while the 1964 book builds upon this set of opcodes as well as detailing interfaces for front panels, magnetic storage, line printers, etc. The 1964 book also describes a prototype assembler language, the implementation of which is beyond the scope of this project currently.
