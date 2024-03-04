@@ -5,9 +5,10 @@ A JavaScript implementation of the TUTor Automatic Computer (TUTAC), a theoretic
 - 2000 cell memory (addresses 0000-1999) with 11 digits per cell (1 sign digit, 10 magnitude digits)
 - 13 opcodes
 - IBM card reader support
+- All memory areas are writable at runtime, allowing for self-modifying code
 
 [WORK IN PROGRESS]
 
-NOTES:
+## NOTES
 
 [1] TUTAC was originally described in the 1962 book "Basic Computer Programming", also by Theodore G. Scott, originally published in the US by Doubleday & Company, Inc., Garden City, N.Y. The 1962 book describes a total of 13 opcodes, while the 1964 book builds upon this set of opcodes as well as detailing interfaces for front panels, magnetic storage, line printers, etc. The 1964 book also describes a prototype assembler language, the implementation of which is beyond the scope of this project currently.
